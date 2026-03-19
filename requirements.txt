@@ -1,0 +1,6 @@
+playwright==1.40.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+tqdm==4.66.1
+colorama==0.4.6
+lxml==4.9.3
