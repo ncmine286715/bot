@@ -4,4 +4,3 @@ requests==2.31.0
 tqdm==4.66.1
 colorama==0.4.6
 lxml==5.1.0
-greenlet==3.0.3
